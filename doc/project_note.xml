@@ -1,0 +1,7 @@
+1. tool & skill info
+    nodejs & express 
+    npm list : 설치확인
+2. development history
+    project
+    npm install mysql -> 환경변수추가, root pwd:1234
+    CREATE DATABASE db_test;
